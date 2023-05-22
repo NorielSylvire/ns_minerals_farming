@@ -1,4 +1,4 @@
-# Noriel_Sylvire's Minerals Farming Module
+# Noriel_Sylvire's Minerals Farming Module [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 Version: 1.0
 
 Copyright (c) 2020 Noriel_Sylvire (Flaviu E. Hongu)
