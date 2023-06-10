@@ -50,4 +50,4 @@ function nsmc.register_farming(modname, mineral)
 	nsmc.register_scythe(modname, mineral)
 end
 
-nsmc.register_callback(nsmc.register_farming, "register_farming")
+nsmc.register_callback( { name = "register_farming", func = nsmc.register_farming } )
